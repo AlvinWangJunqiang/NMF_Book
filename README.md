@@ -2,4 +2,4 @@
 book nmf
 
 
-![image](NMF_Book/nmf.png)
+![image](https://github.com/DvHuang/NMF_Book/blob/master/nmf.png)

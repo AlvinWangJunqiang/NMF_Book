@@ -1,11 +1,10 @@
 # NMF_Book
 book nmf
 
+wifi聚类项目链接：https://github.com/DvHuang/NMF_Book
+
 非负矩阵分解，补全，这里只进行了前半部分，我们可以把它理解为聚类，其中每一列就是所谓的隐含因素。
-
-
 ![image](https://github.com/DvHuang/NMF_Book/blob/master/image/nmf.png)
-
 
 从结果来看，红色框中大部分书籍还是比较符合个人倾向的，这一点比较喜人。但桔黄色框中的结果就扯淡了，勉强可以解释为有两拨人都对阿Q这本书评价很高，但这两拨人的其他爱好又有不同。
 
